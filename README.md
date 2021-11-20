@@ -29,3 +29,8 @@ There are three programs and 2 libraries:
 
 - `rfidaccess.py` - used for accessing the rfid chip memory 
 - `mfrc522.py` - the main RC522 module library 
+
+---
+
+## STL files for 3d printing the case
+There are two files: [`Top.stl`](Top.stl) and [`Bottom.stl`](bottom.stl) that you can print out to encase the RC522 module.
