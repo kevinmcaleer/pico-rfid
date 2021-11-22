@@ -1,8 +1,5 @@
 from mfrc522 import MFRC522
 import utime
-
-
-
               
 reader = MFRC522(spi_id=0,sck=2,miso=4,mosi=3,cs=1,rst=0)
 
